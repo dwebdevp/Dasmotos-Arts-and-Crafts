@@ -15,12 +15,9 @@ header p {
     margin:5px;
 }
 
-.header {
-   width: 100%;
-}
-
-.container {
-   width: 100%;
+@media screen and (max-width: 480px) {
+    .header-text {
+      font-size: 14px;
 }
 
 .text {
