@@ -18,8 +18,7 @@ body{
   width: 100%;
   margin:auto;
   font-size:100px;
-  overflow: hidden;
-  padding: auto
+  padding: auto;
 }
 
 .header-text {
@@ -81,6 +80,8 @@ font-family: Helvetica;
 font-weight:bold;
 color:blue;
 }
+
+
 
 
 
