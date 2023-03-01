@@ -4,6 +4,7 @@ body{
 
 header {
       background-image: url(images/1pattern.jpeg);
+      background-size: contain;  
       font-family: Helvetica;
       font-size:100px;
       font-weight:bold;
