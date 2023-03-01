@@ -18,6 +18,7 @@ header p {
 @media screen and (max-width: 480px) {
     .header-text {
       font-size: 14px;
+  }
 }
 
 .text {
