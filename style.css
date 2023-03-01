@@ -27,12 +27,13 @@ header p {
     position: relative;
     height: 100px;
     margin: auto;
+    background-size:contain;
 }
 
 .header-text {
-    position: relative;
     max-width: 100%;
     margin: auto;
+    background-size:contain;
 }
 
 .text {
