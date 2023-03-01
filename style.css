@@ -19,6 +19,9 @@ header p {
    width: 100%;
 }
 
+.container {
+   width: 100%;
+}
 
 .text {
    font-family: "Helvetica", sans-serif;
