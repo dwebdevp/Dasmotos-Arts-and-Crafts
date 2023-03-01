@@ -15,8 +15,13 @@ header p {
     margin:5px;
 }
 
+.header {
+   width: 100%;
+}
+
+
 .text {
-    font-family: "Helvetica", sans-serif;
+   font-family: "Helvetica", sans-serif;
 }
 
 .brushes {
