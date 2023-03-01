@@ -22,7 +22,14 @@ header p {
   }
 }
 
+.header {
+    position: relative;
+    height: 100px;
+    margin: auto;
+}
+
 .header-text {
+    position: relative;
     max-width: 100%;
     margin: auto;
 }
