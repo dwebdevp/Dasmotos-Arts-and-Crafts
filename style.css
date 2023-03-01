@@ -4,7 +4,6 @@ body{
 
 header {
       background-image: url(images/1pattern.jpeg);
-      background-size: contain;  
       font-family: Helvetica;
       font-size:100px;
       font-weight:bold;
@@ -19,21 +18,17 @@ header p {
 
 @media screen and (max-width: 480px) {
     .header-text {
-      font-size: 8px;
+      font-size: 12px;
   }
 }
 
 .header {
-    position: relative;
-    height: 100px;
-    margin: auto;
-    background-size:contain;
+   margin: auto;
 }
 
 .header-text {
     max-width: 100%;
     margin: auto;
-    background-size:contain;
 }
 
 .text {
