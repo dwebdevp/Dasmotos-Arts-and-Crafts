@@ -1,7 +1,11 @@
-# dasmotos-arts-and-crafts, Codecademy Project
+# dasmotos-arts-and-crafts (Project #1)
+Create Website based off the Spec Sheet provided.
 
-My first project: created webpage based off spec sheet provided.
+Codecademy Project:
 
-Open up this file: dasmotos-arts_redline spec sheet.jpg to view Spec sheet
+Project Goals: 
+Create webpage based off Spec sheet provided.
+
+(Open up this file to view Spec sheet: dasmotos-arts_redline spec sheet.jpg)
 
 url: https://dwebdevp.github.io/dasmotos-arts-and-crafts/
