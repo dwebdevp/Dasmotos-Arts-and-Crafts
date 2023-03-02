@@ -1,4 +1,4 @@
-# dasmotos-arts-and-crafts
+# dasmotos-arts-and-crafts, Codecademy Project
 
 My first project: created webpage based off spec sheet provided.
 
