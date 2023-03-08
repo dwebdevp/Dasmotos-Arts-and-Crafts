@@ -1,7 +1,7 @@
 # dasmotos-arts-and-crafts (Off-Platform Project #1 - Full Stack Developer)
 Create Website based off the Spec Sheet provided.
 
-Codecademy Project:
+Codecademy Project: (Full Stack Developer)
 
 Project Goals: 
 Create webpage based off Spec sheet provided.
