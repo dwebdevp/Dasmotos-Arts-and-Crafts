@@ -1,4 +1,4 @@
-# dasmotos-arts-and-crafts (Project #1)
+# dasmotos-arts-and-crafts (Off-Platform Project: Project #1 Full Stack Developer)
 Create Website based off the Spec Sheet provided.
 
 Codecademy Project:
